@@ -3,7 +3,7 @@ package ASM2Code.P4_P5Code.StudentManager.LinkedListQueue;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Main {
+public class MainWithTryCatch {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
